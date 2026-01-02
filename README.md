@@ -62,8 +62,11 @@ After cleaning:
 
 ## 📁 Project Structure
 ├── README.md
+
 ├── layoffs_raw.sql
+
 ├── layoffs_cleaning.sql
+
 └── layoffs_cleaned.sql
 
 ---
